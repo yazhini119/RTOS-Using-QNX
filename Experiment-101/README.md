@@ -29,7 +29,7 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 
 ---
 
-## Software / Tools Required  
+## Software / Tools Required                                                                                    
 
 - QNX Momentics IDE (installed on host machine)
 - QNX Neutrino RTOS images for:
@@ -53,6 +53,7 @@ int main(void) {
 }
 ```
 ## Output
+
  
 
 ## Result
