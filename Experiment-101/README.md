@@ -54,7 +54,8 @@ int main(void) {
 ```
 ## Output
 
-![output image](exp 101.png)
+![exp 101](https://github.com/user-attachments/assets/b605a763-2dca-4072-ab5b-2e6bdd8eaa2e)
+
  
 
 ## Result
