@@ -54,7 +54,7 @@ int main(void) {
 ```
 ## Output
 
-
+![output image](exp 101.jpeg)
  
 
 ## Result
